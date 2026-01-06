@@ -56,7 +56,6 @@ snowflake-medallion-project/
 │
 ├── README.md
 └── requirements.txt
-
 ## 🔐 Security & Secrets
 
 # Snowflake
