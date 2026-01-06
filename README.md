@@ -29,6 +29,8 @@ snowflake-medallion-project/
 │   ├── KPI explanation Post‑Discharge Follow‑up within 48 hours.txt
 │   ├── Medication Errors per 100 patients GOLD LAYER TABLES.txt
 │   ├── Medication Errors per 100 patients Silver layer views.txt
+│   ├── imm_gold_kpi.sql
+│   ├── imm_silver_kpi.sql
 │   └── text.txt
 │
 ├── SQL/
