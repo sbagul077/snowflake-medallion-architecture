@@ -136,7 +136,6 @@ CREATE OR REPLACE FILE FORMAT HL7_BRONZE_FF
   FIELD_OPTIONALLY_ENCLOSED_BY = NONE;
 
 #CSV File Format
-Prefer IAM role-based auth or Snowflake external stages with AWS integration for production.
 CREATE OR REPLACE FILE FORMAT FF_CSV
   TYPE = CSV
   FIELD_DELIMITER = ','
